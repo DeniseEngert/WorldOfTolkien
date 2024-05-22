@@ -1,9 +1,14 @@
 ## BUILD ##
-`docker build -t tolkien .`
+``
+docker build -t tolkien .
+``
 
 ## RUN after build ##
-`docker run -it --rm -d -p 8080:80 --name tolkien tolkien`
+```
+docker run -it --rm -d -p 8080:80 --name tolkien tolkien
+``
 
 ## RUN with new code, without new build ##
-
-`docker run -it --rm -d -p 8080:80 --name tolkien -v ~/code:/usr/share/nginx/html nginx`
+``
+docker run -it --rm -d -p 8080:80 --name tolkien -v ~/code:/usr/share/nginx/html nginx
+``
