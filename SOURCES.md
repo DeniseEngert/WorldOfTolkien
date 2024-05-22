@@ -1,7 +1,16 @@
-# Sources of Knowledge I used to build this project ###
+# Sources of knowledge I used to build this project
 
-## The IT stuff ##
-### set up and run a docker container #
+## The IT stuff
+### set up and run a docker container
 https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
 
-## The Books ##
+### yED for graphs
+https://www.yworks.com/products/yed
+
+### Fonts
+Tangerine by Toshi Omagari (fetched from Google Fonts)
+
+## The Books
+|    Title     | Language | published |   Pubisher    |        ISBN        |
+|:------------:|:--------:|:---------:|:-------------:|:------------------:|
+|  Der Hobbit  |  German  |   2012    | Hobbit Presse | 978-3-408-99840-1  |

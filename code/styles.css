@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Tangerine;
+    src:url("/resources/Tangerine/Tangerine-Regular.ttf");
+}
+
+/* HEADER */
+
+h1 {
+    font-family: Tangerine;
+    font-size: 48px;
+}
