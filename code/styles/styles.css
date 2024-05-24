@@ -16,11 +16,11 @@ th {
 }
 
 .decoText {
-    color: lightgrey;
+
 }
 
 .decoLink {
-    color: lightgrey;
+    color: darkgrey;
     text-decoration: none;
 }
 
@@ -33,6 +33,7 @@ header {
     top: 0;
     width: 100%;
     background: white;
+    z-index: 10;
 }
 
 h1 {
@@ -87,7 +88,6 @@ li {
     background-color: #f1f1f1;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    z-index: 1;
 }
 
 /* Links inside the dropdown */
@@ -122,9 +122,20 @@ main {
 }
 
 #middleearth {
+    background-image: url('../graphics/Sketch_Map_of_Middle-earth.svg');
+    background-repeat: no-repeat;
+    height: 700px;
     opacity: 0.5;
     margin-bottom: 20px;
     margin-top: 20px;
+    z-index: -1;
+}
+
+.ccl {
+    color: darkgrey;
+    position: fixed;
+    bottom: 100px;
+
 }
 
 .initial {
