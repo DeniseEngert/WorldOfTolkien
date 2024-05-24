@@ -3,6 +3,8 @@
 ## The development stuff
 ### set up and run a docker container
 * https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
+
+### programming
 * https://www.w3schools.com/
 
 NO AI! I have dignity.
