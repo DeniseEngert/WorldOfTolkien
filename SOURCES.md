@@ -11,6 +11,6 @@ https://www.yworks.com/products/yed
 Tangerine by Toshi Omagari (fetched from Google Fonts)
 
 ## The Books
-|    Title     | Language | published |   Pubisher    |        ISBN        |
+|    Title     | Language | published |   Publisher   |        ISBN        |
 |:------------:|:--------:|:---------:|:-------------:|:------------------:|
 |  Der Hobbit  |  German  |   2012    | Hobbit Presse | 978-3-408-99840-1  |

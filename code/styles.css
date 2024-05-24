@@ -3,14 +3,34 @@
     src:url("/resources/Tangerine/Tangerine-Regular.ttf");
 }
 
-/* ### HEADER ### */
+/* ##### HEADER ##### */
+/* ################## */
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: white;
+}
 
 h1 {
     font-family: Tangerine;
     font-size: 48px;
+    padding-left: 20px;
+    margin-bottom: 0;
 }
 
 /* ### NAVIGATION ### */
+
+nav {
+
+}
+
+ul{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 20;
+}
 
 li {
     display: inline;
@@ -58,3 +78,24 @@ li {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: white;}
+
+/* ###### MAIN ###### */
+/* ################## */
+
+main {
+    margin-top: 150px;
+    padding-left: 20px;
+}
+
+/* ##### FOOTER ##### */
+/* ################## */
+
+footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    background: white;
+}
