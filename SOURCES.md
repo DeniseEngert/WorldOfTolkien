@@ -20,3 +20,9 @@ Tangerine by Toshi Omagari (fetched from Google Fonts)
 |:----------:|:--------:|:---------:|:-------------:|:------------------:|
 | Der Hobbit |  German  |   2012    | Hobbit Presse | 978-3-408-99840-1  |
 | The Hobbit | English  |   2020    | Recorded Books | 978-0-0084-3941-5  |
+
+## Material I used
+
+Map of Middle-Earth
+Ian Alexander, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+(<a href="https://commons.wikimedia.org/wiki/File:Sketch_Map_of_Middle-earth.svg">Ian Alexander</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons9)

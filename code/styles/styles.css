@@ -6,15 +6,23 @@
 /* ##### GENERAL ##### */
 
 
-
 table {
     width: 50%;
 }
+
 th {
     text-align: left;
     color: darkgrey;
 }
 
+.decoText {
+    color: lightgrey;
+}
+
+.decoLink {
+    color: lightgrey;
+    text-decoration: none;
+}
 
 
 /* ##### HEADER ##### */
@@ -111,6 +119,12 @@ li {
 main {
     margin-top: 150px;
     padding-left: 20px;
+}
+
+#middleearth {
+    opacity: 0.5;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .initial {
