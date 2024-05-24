@@ -1,6 +1,21 @@
 @font-face {
     font-family: Tangerine;
-    src:url("/resources/Tangerine/Tangerine-Regular.ttf");
+    src: url("../resources/Tangerine/Tangerine-Regular.ttf");
+}
+
+/* ##### GENERAL ##### */
+
+a {
+    text-decoration: none;
+    color: darkgrey;
+}
+
+table {
+    width: 50%;
+}
+th {
+    text-align: left;
+    color: darkgrey;
 }
 
 /* ##### HEADER ##### */
@@ -26,10 +41,10 @@ nav {
 
 }
 
-ul{
+ul {
     margin-top: 5px;
     margin-bottom: 5px;
-    padding-left: 20;
+    padding-left: 20px;
 }
 
 li {
@@ -58,7 +73,7 @@ li {
     position: absolute;
     background-color: #f1f1f1;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
 }
 
@@ -71,13 +86,19 @@ li {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: white;}
+.dropdown:hover .dropbtn {
+    background-color: white;
+}
 
 /* ###### MAIN ###### */
 /* ################## */
