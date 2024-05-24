@@ -47,10 +47,15 @@ li {
 .dropbtn {
     font-family: Tangerine;
     background-color: white;
-    color: darkgrey;
+    color: darkolivegreen;
     padding: 16px;
-    font-size: 16px;
+    font-size: 25px;
     border: none;
+}
+
+.dropbtn a {
+    text-decoration: none;
+    color: darkolivegreen;
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -104,11 +109,11 @@ main {
 
 td {
     /*border: lightgrey solid 1px;*/
-    width: 50px;
+    width: 60px;
 }
 
 tr {
-    height: 15px;
+    height: 20px;
 }
 .pedigreeTable {
     border-spacing: 0;
@@ -117,7 +122,9 @@ tr {
 .character {
     text-align: center;
     font-family: Tangerine;
-    color: darkgrey;
+    color: darkolivegreen;
+    font-size: 20pt;
+    padding: 10px;
 }
 
 .borderL {
