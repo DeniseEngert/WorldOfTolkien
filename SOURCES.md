@@ -7,6 +7,7 @@
 ### programming
 * https://www.w3schools.com/
 * https://stackoverflow.com (before 2023)
+* Timeline Design: https://codepen.io/alvarotrigo/pen/BawBzjM
 
 NO AI! I have dignity.
 
