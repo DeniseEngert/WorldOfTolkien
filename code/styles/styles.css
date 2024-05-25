@@ -153,6 +153,11 @@ main {
     color: darkolivegreen;
 }
 
+/* end of page, to prevent contend being hidden by footer*/
+.emptySpace {
+    height: 50px;
+}
+
 /* ##### FOOTER ##### */
 /* ################## */
 
