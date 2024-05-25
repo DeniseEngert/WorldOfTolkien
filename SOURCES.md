@@ -6,10 +6,11 @@
 
 ### programming
 * https://www.w3schools.com/
+* https://stackoverflow.com (before 2023)
 
 NO AI! I have dignity.
 
-### yED for graphs
+### yED for graphs (should I use images)
 * https://www.yworks.com/products/yed
 
 ### Fonts
@@ -23,6 +24,6 @@ Tangerine by Toshi Omagari (fetched from Google Fonts)
 
 ## Material I used
 
-Map of Middle-Earth
-Ian Alexander, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
-(<a href="https://commons.wikimedia.org/wiki/File:Sketch_Map_of_Middle-earth.svg">Ian Alexander</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons9)
+### Map of Middle-Earth
+* https://commons.wikimedia.org/wiki/File:Sketch_Map_of_Middle-earth.svg
+* Ian Alexander, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons

@@ -4,7 +4,7 @@ A few days ago I came across a statement on Mastodon by Baldur Bjarnason (@baldu
 
 ![image](code/graphics/BB_Mastodon.png)
 
-And I thought: can you actually build what I have in mind solely with html and css? Without going nuts? Pedigrees, indexes, cross-referencing everything?
+And I thought: can you actually build what I have in mind solely with html and css? Without going crazy? Pedigrees, indexes, cross-referencing everything?
 No frameworks, no JavaScript, no database, no nothing?
 Let's see ...
 
