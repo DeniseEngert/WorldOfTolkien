@@ -188,7 +188,7 @@ h2{
 /* Card container */
 .card {
     position: relative;
-    max-width: 600px;
+    max-width: 80%;
 }
 
 /* setting padding based on even or odd */
