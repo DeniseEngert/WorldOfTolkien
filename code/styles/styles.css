@@ -20,6 +20,10 @@ td {
     padding-bottom: 3px;
 }
 
+tr:hover {
+    background-color: whitesmoke;
+}
+
 .decoText {
 
 }
