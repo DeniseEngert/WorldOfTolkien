@@ -105,6 +105,10 @@ main {
     padding-left: 20px;
 }
 
+.headerFamTree {
+    padding: 10px 0 10px 0;
+}
+
 /* ### Pedigrees ### */
 
 td {
@@ -170,10 +174,20 @@ tr {
 
 footer {
     position: fixed;
-    height: 50px;
+    height: 40px;
     bottom: 0px;
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
     background: white;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+footer a {
+    font-family: Tangerine;
+    font-size: 20px;
+    text-decoration: none;
+    color: darkolivegreen;
+    margin-right: 10px;
 }
