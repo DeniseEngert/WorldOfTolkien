@@ -34,9 +34,9 @@ nav {
 }
 
 ul {
-    margin-top: 5px;
+    margin-top: 0px;
     margin-bottom: 5px;
-    padding-left: 20px;
+    padding-left: 5px;
 }
 
 li {
@@ -166,8 +166,10 @@ tr {
     border-left: 0;
 }
 
-
-
+/* end of page, to prevent contend being hidden by footer*/
+.emptySpace {
+    height: 50px;
+}
 
 /* ##### FOOTER ##### */
 /* ################## */
