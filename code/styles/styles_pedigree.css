@@ -11,6 +11,7 @@ header {
     top: 0;
     width: 100%;
     background: white;
+    box-shadow: 0 3px 2px whitesmoke;
 }
 
 h1 {
@@ -127,7 +128,7 @@ tr {
     text-align: center;
     font-family: Tangerine;
     color: darkolivegreen;
-    font-size: 20pt;
+    font-size: 22pt;
     padding: 10px;
 }
 

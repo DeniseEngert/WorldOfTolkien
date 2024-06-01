@@ -48,6 +48,7 @@ header {
     top: 0;
     width: 100%;
     background: white;
+    box-shadow: 0 3px 2px whitesmoke;
     z-index: 10;
 }
 
