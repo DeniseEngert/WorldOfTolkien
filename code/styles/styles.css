@@ -177,9 +177,11 @@ h2 {
     color: darkolivegreen;
 }
 
-.ankerPoint {
+.sprung {
+    visibility: hidden;
+    height: 0px !important;
     position: absolute;
-    top: -100px
+    margin: -100px;
 }
 
 /* end of page, to prevent contend being hidden by footer*/
