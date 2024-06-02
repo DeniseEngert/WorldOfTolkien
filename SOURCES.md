@@ -24,6 +24,7 @@ Tangerine by Toshi Omagari (fetched from Google Fonts)
 |                     The Hobbit                     | English  |   2020    |      Recorded Books       | 978-0-0084-3941-5 |
 |         Der Herr der Ringe - Die Gefährten         |  German  |   2004    |        Klett-Cotta        | 978-3-608-95536-4 |
 | The Lord Of The Rings - The Fellowship Of The Ring | English  |   2021    | Harper Collins Publishers | 978-0-00-848730-0 |
+| The Lord Of The Rings - The Fellowship Of The Ring | English  |   2005    | Harper Collins Publishers | 978-0-00-720354-3 |
 
 ## Material I used
 
