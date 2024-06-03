@@ -135,6 +135,7 @@ li {
 main {
     padding-top: 150px;
     padding-left: 20px;
+    scroll-behavior: smooth;
 }
 
 h2 {
@@ -182,6 +183,22 @@ h2 {
     height: 0px !important;
     position: absolute;
     margin: -132px;
+}
+
+#scrollToTopBtn {
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 40px;
+    line-height: 48px;
+    width: 48px;
+    color: darkgrey;
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    text-decoration: none;
+    text-align: center;
 }
 
 /* end of page, to prevent contend being hidden by footer*/
