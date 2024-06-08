@@ -15,6 +15,14 @@ th {
     color: darkgrey;
 }
 
+.appear {
+    width: 200px;
+}
+
+.name {
+    width: 200px;
+}
+
 td {
     padding-top: 3px;
     padding-bottom: 3px;
