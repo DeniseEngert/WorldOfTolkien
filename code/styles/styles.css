@@ -1,6 +1,10 @@
 @font-face {
-    font-family: Tangerine;
+    font-family: TangerineRegular;
     src: url("../resources/Tangerine/Tangerine-Regular.ttf");
+}
+@font-face {
+    font-family: TangerineBold;
+    src: url("../resources/Tangerine/Tangerine-Bold.ttf");
 }
 
 /* ##### GENERAL ##### */
@@ -65,8 +69,8 @@ header {
     z-index: 10;
 }
 
-h1 {
-    font-family: Tangerine;
+header > h1 {
+    font-family: TangerineRegular;
     font-size: 48px;
     padding-left: 20px;
     margin-bottom: 0;
@@ -78,19 +82,19 @@ nav {
 
 }
 
-ul {
+nav > ul {
     margin-top: 0px;
     margin-bottom: 5px;
     padding-left: 5px;
 }
 
-li {
+nav > ul > li {
     display: inline;
 }
 
 /* Dropdown Button */
 .dropbtn {
-    font-family: Tangerine;
+    font-family: TangerineRegular;
     background-color: white;
     color: darkolivegreen;
     padding: 16px;
@@ -151,8 +155,16 @@ main {
     scroll-behavior: smooth;
 }
 
+main > h1 {
+    font-family: TangerineBold;
+    color: dimgrey;
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
 h2 {
-    font-family: Tangerine;
+    font-family: TangerineRegular;
     color: dimgrey;
     font-size: 30px;
 }
@@ -175,7 +187,7 @@ h2 {
 }
 
 .initial { /* index letter */
-    font-family: Tangerine;
+    font-family: TangerineRegular;
     font-size: 30pt;
     font-weight: bolder;
     padding-top: 10px;
@@ -346,7 +358,7 @@ footer {
 }
 
 footer a {
-    font-family: Tangerine;
+    font-family: TangerineRegular;
     font-size: 20px;
     text-decoration: none;
     color: darkolivegreen;
